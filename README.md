@@ -25,7 +25,7 @@ khushi-singh-8473) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoCol
 # 📊 GitHub Stats:
 
 <div align="center">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulholkar16&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khushisingh16&theme=radical">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulholkar16&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulholkar16&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahulholkar16&theme=radical">
