@@ -12,8 +12,7 @@ Email Me 👉 ✉️ **ks6637890@gmail.com** For Collaboration/Project or Anythi
 ## 🔗 I am a Developer. 😊😊
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khuushii__singhhhh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](
-khushi-singh-8473) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/khushisingh_web3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ks6637890@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khuushii__singhhhh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://instagram.com/khushi-singh-8473) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/khushisingh_web3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ks6637890@gmail.com)
 <!-- Snake Game Repo View -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
