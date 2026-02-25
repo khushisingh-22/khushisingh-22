@@ -1,3 +1,10 @@
+# <p align="center"> ⚡ Khushi Singh | Full-Stack Developer ⚡ </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;MERN+Stack+Learner;Web3+Enthusiast;Tech+Lover" alt="Typing SVG" />
+</p>
+
+
 [# 💫 Hi 👋, I'm Khushi Singh
 **A passionate Full-Stack Devloper || Web3 Enthusiast**
 
