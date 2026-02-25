@@ -1,9 +1,51 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Khushi+Singh;A+Full-Stack+Developer;A+Web3+Enthusiast; Welcome+to+my+Digital+World!+✨" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=KHUSHI%20SINGH&fontSize=80&animation=fadeIn&fontColor=ffffff&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KHUSHI%20SINGH&fontSize=80&animation=fadeIn&fontAlignY=35" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi+there!+👋+I'm+Khushi+Singh;A+Full-Stack+Developer;A+Web3+Enthusiast;Welcome+to+my+Digital+World!+✨" alt="Typing SVG" />
+</p>
+
+---
+
+### 💫 About Me
+I'm a passionate **Computer Science Student** and **Full-Stack Developer** based in Greater Noida. 
+
+- 🔭 **Learning:** MERN STACK & DSA
+- 💬 **Ask me about:** Tech Support, HTML, CSS, JavaScript, React.js
+- ⚡ **Fun Fact:** I Love Tech and Tech Love Me!
+- 📫 **How to reach me:** [ks6637890@gmail.com](mailto:ks6637890@gmail.com)
+
+---
+
+### 🛠️ Tech Stack & Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,mongodb,express,nodejs,git,github,vscode" />
+</p>
+
+---
+
+### 📊 Live Dashboard
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khushisingh-22&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushisingh-22&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushisingh-22&theme=radical&hide_border=true" width="100%" />
+</p>
+
+---
+
+### 🌐 Socials & Connect
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://instagram.com/YOUR_INSTAGRAM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="mailto:ks6637890@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khushisingh-22&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 [# 💫 Hi 👋, I'm Khushi Singh
