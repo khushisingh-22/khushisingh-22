@@ -18,6 +18,17 @@ Email Me 👉 ✉️ **ks6637890@gmail.com** For Collaboration/Project or Anythi
 
 ## 🔗 I am a Developer. 😊😊
 
+
+### 📊 My GitHub Stats (Live Dashboard)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khushisingh-22&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushisingh-22&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushisingh-22&theme=radical&hide_border=true" width="100%" />
+</p>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khuushii__singhhhh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://instagram.com/khushi-singh-8473) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/khushisingh_web3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ks6637890@gmail.com)
 <!-- Snake Game Repo View -->
