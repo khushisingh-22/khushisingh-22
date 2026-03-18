@@ -7,7 +7,7 @@
 </p>
 
 [# 💫 Hi 👋, I'm Khushi Singh
-**A passionate Full-Stack Devloper || Web3 Enthusiast**
+**A passionate MERN-STACK Devloper || Web3 Enthusiast**
 
 Email Me 👉 ✉️ **ks6637890@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -56,3 +56,5 @@ Email Me 👉 ✉️ **ks6637890@gmail.com** For Collaboration/Project or Anythi
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 (https://github-readme-streak-stats.herokuapp.com/?user=khushisingh-22&theme=radical)
+
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushisingh-22&layout=compact&theme=vision-friendly-dark)
