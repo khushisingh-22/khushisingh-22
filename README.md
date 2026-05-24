@@ -1,10 +1,15 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=KHUSHI%20SINGH&fontSize=80&animation=fadeIn&fontColor=ffffff&fontAlignY=35" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi+there!+👋+I'm+Khushi+Singh;A+Full-Stack+Developer;A+Web3+Enthusiast;Welcome+to+my+Digital+World!+✨" alt="Typing SVG" />
-</p>
+<div align="center">
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20There!%20I'm%20Khushi%20%F0%9F%91%8B&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Code%20%E2%9D%A4%EF%B8%8F%20Coffee%20%7C%20Building%20Cool%20Stuff&descAlignY=55&descSize=18" width="100%"/>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%2B+Node.js+%2B+MongoDB+%F0%9F%94%A5;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning%2C+Always+Growing+%F0%9F%92%AB" alt="Typing SVG" />
+</a>
+<br/>
+<!-- Profile Views & Social Badges -->
+Show Image
+Show Image
+</div>
 
 [# 💫 Hi 👋, I'm Khushi Singh
 **A passionate MERN-STACK Devloper || Web3 Enthusiast**
