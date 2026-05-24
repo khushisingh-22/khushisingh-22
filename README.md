@@ -40,18 +40,48 @@ Email Me 👉 ✉️ **ks6637890@gmail.com** For Collaboration/Project or Anythi
 ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushisingh-22&layout=compact&theme=vision-friendly-dark)
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <div align="center">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khushisingh-22&theme=radical">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khushisingh-22&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khushisingh-22&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khushisingh-22&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khushisingh-22&theme=radical&utcOffset=8">
-<img src="https://github-readme-stats.vercel.app/api?username=khushisingh-22&theme=radical&hide_border=false&include_all_commits=true&count_private=false">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=khushisingh&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=khushisingh-22&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushisingh-22&theme=radical&hide_border=true" width="48%" />
 </div>
-<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushisingh-22&layout=donut&theme=radical&hide_border=true&langs_count=6" width="40%" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=khushisingh-22&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushisingh-22&theme=redical&hide_border=true&area=true&custom_title=Khushi's%20Contribution%20Graph%20🔥" width="100%" />
+</div>
+
+---
+
+## 🌟 2026 Stats Snapshot
+
+<div align="center">
+
+| 🏅 Metric | 📊 Count |
+|-----------|---------|
+| 🔥 Contributions in 2026 | **94** |
+| 💾 Public Repositories | **9** |
+| 🤝 Contributed to | **10 projects** |
+| 📝 Total Commits (2026) | **83** |
+
+</div>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
