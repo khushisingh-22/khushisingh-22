@@ -1,44 +1,61 @@
 <div align="center">
+
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20There!%20I'm%20Khushi%20%F0%9F%91%8B&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Mern%20Stack%20Developer%20%7C%20Code%20%E2%9D%A4%EF%B8%8F%20Coffee%20%7C%20Building%20Cool%20Stuff&descAlignY=55&descSize=18" width="100%"/>
+
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=Mern+Stack+Developer+%F0%9F%9A%80;React+%2B+Node.js+%2B+MongoDB+%F0%9F%94%A5;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning%2C+Always+Growing+%F0%9F%92%AB" alt="Typing SVG" />
 </a>
-<br/>
-<!-- Profile Views & Social Badges -->
 
 </div>
 
-[# 💫 Hi 👋, I'm Khushi Singh
-**A passionate MERN-STACK Devloper || Web3 Enthusiast**
+---
+
+# 💫 Hi 👋, I'm Khushi Singh
+**A passionate MERN-STACK Developer || Web3 Enthusiast**
 
 Email Me 👉 ✉️ **ks6637890@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🌱 **I’m currently learning:** MERN STACK
+- 🌱 **I'm currently learning:** MERN STACK
 - 💬 **Ask me about:** Tech Support
 - 📫 **How to reach me:** ks6637890@gmail.com
-- 😄 **Pronouns:** khushi singh
+- 😄 **Pronouns:** she/her
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-## 🔗 I am a Developer. 😊😊
-
-
-
+---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khuushii__singhhhh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://instagram.com/khushi_dev_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/khushisingh_web3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ks6637890@gmail.com)
-<!-- Snake Game Repo View -->
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khuushii__singhhhh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khushi_dev_)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/khushisingh_web3)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ks6637890@gmail.com)
+
+<!-- Snake Game Animation -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 💻 Tech Stack:
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+---
 
+## 💻 Tech Stack:
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushisingh-22&layout=compact&theme=vision-friendly-dark)
-
+---
 
 ## 📊 GitHub Stats
 
@@ -82,6 +99,7 @@ Email Me 👉 ✉️ **ks6637890@gmail.com** For Collaboration/Project or Anythi
 
 </div>
 
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
@@ -90,7 +108,22 @@ Email Me 👉 ✉️ **ks6637890@gmail.com** For Collaboration/Project or Anythi
 ![](https://github-contributor-stats.vercel.app/api?username=khushisingh-22&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=khushisingh-22&icon=0&color=0)](https://visitcount.itsvg.in)
 
+---
+
+## 🌸 Meet Khushi — Animated Portfolio & AI Chat
+
+<!-- NOTE: GitHub README does not render JavaScript or interactive HTML.
+     To use the animated girl + AI chatbot, deploy this HTML block as a
+     GitHub Pages site (index.html) and link it from your README like below.
+     Instructions at the bottom of this file. -->
+
+> 💡 **GitHub Note:** GitHub strips JavaScript from README files for security.
+> The animated section below is an **HTML file** — deploy it on GitHub Pages and link it here!
+> 👉 **[🌸 Open My Interactive Portfolio](https://khushisingh-22.github.io)** *(after deploying)*
+
+---
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-(https://github-readme-streak-stats.herokuapp.com/?user=khushisingh-22&theme=radical)
